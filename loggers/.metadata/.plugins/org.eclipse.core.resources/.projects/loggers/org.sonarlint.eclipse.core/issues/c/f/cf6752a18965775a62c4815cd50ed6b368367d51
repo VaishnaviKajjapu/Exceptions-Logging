@@ -1,0 +1,22 @@
+
+“
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(½–œ–ıÿÿÿÿ8ëœí‡.HXRMAJORZ
+CODE_SMELL
+x
+java:S3457"AFormat specifiers should be used instead of string concatenation.(½–œ–ıÿÿÿÿ8ëœí‡.HYRMAJORZ
+CODE_SMELL
+ˆ
+java:S3008	"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‚½¦üÿÿÿÿ8ëœí‡.HZRMINORZ
+CODE_SMELL
+x
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ç€Èşÿÿÿÿ8ëœí‡.H[RMAJORZ
+CODE_SMELL
+
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(†õ-8ëœí‡.H\RMAJORZ
+CODE_SMELL
+r
+java:S3457"AFormat specifiers should be used instead of string concatenation.(†õ-8ëœí‡.H]RMAJORZ
+CODE_SMELL
+n
+java:S2629"7Use the built-in formatting to construct this argument.(Ç€Èşÿÿÿÿ8ëœí‡.H^RMAJORZ
+CODE_SMELL

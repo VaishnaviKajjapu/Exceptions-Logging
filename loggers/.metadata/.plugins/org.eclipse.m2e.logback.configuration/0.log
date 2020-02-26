@@ -1,0 +1,316 @@
+2020-02-25 18:37:09,038 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml
+2020-02-25 18:37:14,627 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 18:37:16,021 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 18:37:16,034 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 18:37:17,870 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2020-02-25 18:37:18,824 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:37:18,826 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 18:37:18,827 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:37:18,827 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 18:39:05,263 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 18:39:05,693 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 18:39:06,064 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 18:39:06,065 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 18:39:06,270 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-02-25 18:39:06,416 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:39:06,416 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 18:39:06,418 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:39:06,418 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 18:48:17,677 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 18:48:18,098 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 18:48:18,296 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 18:48:18,296 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 18:48:18,476 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-02-25 18:48:18,733 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:48:18,733 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 18:48:18,736 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:48:18,736 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 18:49:02,636 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 18:49:03,006 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 18:49:03,217 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 18:49:03,218 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 18:49:03,307 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-02-25 18:49:03,455 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:49:03,455 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 18:49:03,457 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:49:03,457 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 18:53:32,362 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 18:53:32,699 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 18:53:32,877 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 18:53:32,878 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 18:53:32,948 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-02-25 18:53:33,184 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:53:33,185 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 18:53:33,189 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:53:33,190 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 18:58:49,565 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 18:58:50,270 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 18:58:56,219 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2020-02-25 18:58:56,800 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2020-02-25 18:58:57,734 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 18:58:57,736 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 18:58:58,309 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2020-02-25 18:58:58,680 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:58:58,681 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 18:58:58,683 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 18:58:58,683 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:09:35,014 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:09:35,015 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:09:35,017 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:09:35,019 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:09:56,937 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 19:09:57,829 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 19:09:58,044 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 19:09:58,046 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 19:09:58,227 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-02-25 19:09:58,498 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:09:58,500 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:09:58,506 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:09:58,507 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:11:45,572 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 19:11:46,351 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 19:11:46,550 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 19:11:46,550 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 19:11:46,693 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-02-25 19:11:46,886 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:11:46,887 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:11:46,890 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:11:46,890 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:12:48,871 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:12:48,871 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:12:48,875 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:12:48,876 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:13:08,045 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 19:13:08,644 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 19:13:08,844 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 19:13:08,845 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 19:13:08,977 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-02-25 19:13:09,164 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:13:09,164 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:13:09,166 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:13:09,167 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:14:56,828 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:14:56,829 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:14:56,832 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:14:56,833 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:16:24,846 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:16:24,847 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:16:24,849 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:16:24,849 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:16:46,621 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 19:16:47,216 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 19:16:47,382 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-25 19:16:47,383 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-25 19:16:47,520 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-02-25 19:16:47,703 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:16:47,703 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:16:47,703 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:16:47,703 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:17:44,530 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:17:44,531 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:17:44,532 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:17:44,534 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 19:17:56,522 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:17:56,523 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 19:17:56,526 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 19:17:56,527 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 22:09:03,946 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:09:03,946 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 22:09:03,946 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:09:03,946 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 22:11:05,730 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:11:05,730 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 22:11:05,731 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:11:05,732 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 22:13:58,627 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:13:58,627 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 22:13:58,627 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:13:58,627 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 22:33:08,946 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:33:08,947 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 22:33:08,948 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:33:08,949 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:02:59,599 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-25 23:03:01,751 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.12.1/log4j-core-2.12.1.pom
+2020-02-25 23:03:02,241 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.12.1/log4j-core-2.12.1.pom
+2020-02-25 23:03:02,503 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.12.1/log4j-2.12.1.pom
+2020-02-25 23:03:03,300 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.12.1/log4j-2.12.1.pom
+2020-02-25 23:03:03,558 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2020-02-25 23:03:03,857 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2020-02-25 23:03:04,119 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.pom
+2020-02-25 23:03:04,411 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.pom
+2020-02-25 23:03:04,707 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.12.1/log4j-core-2.12.1.jar
+2020-02-25 23:03:09,202 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.12.1/log4j-core-2.12.1.jar
+2020-02-25 23:03:09,438 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.jar
+2020-02-25 23:03:10,064 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.jar
+2020-02-25 23:03:10,889 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:03:10,889 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:03:10,890 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:03:10,890 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:03:12,422 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:03:12,423 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:03:12,423 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:03:12,423 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:10:40,700 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:10:40,700 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:10:40,701 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:10:40,701 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:10:53,373 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:10:53,373 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:10:53,374 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:10:53,374 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:11:06,275 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:11:06,276 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:11:06,276 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:11:06,276 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:13:14,228 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:13:14,228 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:13:14,229 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:13:14,230 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:33:39,747 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:33:39,748 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:33:39,748 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:33:39,748 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:33:57,544 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:33:57,544 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:33:57,545 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:33:57,546 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:48:38,699 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:48:38,699 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:48:38,700 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:48:38,700 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:51:35,595 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:51:35,596 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:51:35,596 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:51:35,596 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:52:12,780 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:52:12,781 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:52:12,782 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:52:12,782 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:52:51,502 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:52:51,502 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:52:51,503 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:52:51,503 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-25 23:54:26,513 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:54:26,513 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-25 23:54:26,514 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 23:54:26,514 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:11:12,867 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:11:12,867 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:11:12,868 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:11:12,868 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:11:13,119 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:11:13,119 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:11:13,120 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:11:13,120 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:16:06,139 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:16:06,139 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:16:06,139 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:16:06,139 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:25:17,056 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:25:17,057 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:25:17,058 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:25:17,059 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:26:28,623 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:26:28,623 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:26:28,624 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:26:28,624 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:33:21,012 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:33:21,013 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:33:21,014 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:33:21,014 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:38:42,895 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:38:42,895 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:38:42,896 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:38:42,896 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:47:16,006 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:47:16,006 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:47:16,008 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:47:16,008 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:48:30,024 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:48:30,025 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:48:30,025 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:48:30,026 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:48:50,615 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:48:50,615 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:48:50,616 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:48:50,616 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:48:57,618 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:48:57,618 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:48:57,618 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:48:57,618 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:52:27,736 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:52:27,736 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:52:27,737 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:52:27,737 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:58:00,848 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:58:00,848 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:58:00,849 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:58:00,849 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 00:59:51,196 [Worker-178] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-26 00:59:51,576 [Worker-178] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-26 00:59:51,720 [Worker-178] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-26 00:59:51,720 [Worker-178] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-26 00:59:51,882 [Worker-178] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-02-26 00:59:52,061 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:59:52,062 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 00:59:52,064 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 00:59:52,064 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 01:01:15,859 [Worker-178] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\vaishnavi\logging&Eceptions\loggers
+2020-02-26 01:01:15,860 [Worker-178] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-02-26 01:04:34,677 [Worker-184] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-26 01:04:35,256 [Worker-184] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-26 01:04:36,543 [Worker-184] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-26 01:04:36,543 [Worker-184] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-26 01:04:36,673 [Worker-184] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-02-26 01:04:36,963 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 01:04:36,963 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 01:04:36,964 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 01:04:36,964 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 01:22:36,419 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 01:22:36,419 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 01:22:36,419 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 01:22:36,420 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 01:23:42,001 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-26 01:23:43,161 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-26 01:23:43,645 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-26 01:23:43,646 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-26 01:23:43,906 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-02-26 01:23:44,206 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 01:23:44,207 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 01:23:44,210 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 01:23:44,210 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 10:15:56,279 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-26 10:15:57,935 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-26 10:15:58,466 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-26 10:15:58,466 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-26 10:16:00,879 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-02-26 10:16:02,035 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:16:02,040 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 10:16:02,042 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:16:02,042 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 10:17:02,160 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-26 10:17:02,736 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam.com:loggers:0.0.1-SNAPSHOT @ C:\Users\vaishnavi\logging&Eceptions\loggers\pom.xml.
+2020-02-26 10:17:02,965 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/main/java
+2020-02-26 10:17:02,965 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loggers/src/test/java
+2020-02-26 10:17:03,282 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-02-26 10:17:03,503 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:17:03,503 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\main\resources
+2020-02-26 10:17:03,513 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:17:03,513 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 10:19:46,169 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:19:46,203 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 10:19:46,205 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:19:46,205 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 10:20:10,327 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:20:10,329 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 10:20:10,376 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:20:10,377 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 10:20:20,228 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:20:20,228 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 10:20:20,229 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:20:20,229 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources
+2020-02-26 10:20:25,770 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:20:25,771 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 10:20:25,780 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 10:20:25,780 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaishnavi\logging&Eceptions\loggers\src\test\resources

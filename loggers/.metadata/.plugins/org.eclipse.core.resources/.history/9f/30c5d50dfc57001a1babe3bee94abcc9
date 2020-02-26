@@ -1,0 +1,62 @@
+package epam.com.loggers;
+import java.util.Scanner;
+import org.apache.logging.log4j.*;
+
+import org.apache.logging.log4j.LogManager;
+
+public class Test {
+	 
+	private static Logger LOGGER = LogManager.getLogger(Test.class);
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		
+		CalculationOfSimpleAndCompountInterest calculate = new CalculationOfSimpleAndCompountInterest();
+		
+		BudgetCalculation budget = new BudgetCalculation();
+		
+		
+		LOGGER.info("Enter 1  or 2");
+		int num = input.nextInt();
+		LOGGER.info("You entered option" + " " + num);
+		LOGGER.info("Enter principal , rate , time values");
+		double principal = input.nextDouble();
+		double rate = input.nextDouble();
+		double time = input.nextDouble();
+		switch(num){
+		case 1:
+			LOGGER.info("SimpleIntrest - " + calculate.SimpleInterest(principal, rate, time));
+			break;
+		case 2:
+			LOGGER.info("CompoundIntrest - " + calculate.CompoundInterest(principal, rate, time));
+			break;
+		default:
+			LOGGER.info("Invalid num is entered");
+		}
+		
+		
+		LOGGER.info("Enter Standard of the house to be consturcted");
+		LOGGER.info("Enter 1 for normal 2 for medium 3 for high");
+		int standard = input.nextInt();
+		LOGGER.info("Entered standard is " + standard);
+		int fullyAutomated;
+		if( standard == 3){
+			LOGGER.info("Enter 1 for fully automated house else enter 0");
+			fullyAutomated = input.nextInt();
+			LOGGER.info("Entered value is " + fullyAutomated);
+		}else{
+			fullyAutomated = 0;
+			
+		}
+		LOGGER.info("Enter the area ");
+		double area = input.nextDouble();
+		LOGGER.info("Area entered is " + area);
+		LOGGER.info("Budget calculated is " + budget.ConstructionCost(area, standard, fullyAutomated));
+		
+		
+		
+
+	}
+
+}
