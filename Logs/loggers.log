@@ -1,0 +1,9 @@
+2020-02-26 10:20:34 INFO  TestForCalculationOfIntrests:18 - Enter 1  or 2
+2020-02-26 10:25:35 INFO  TestForCalculationOfIntrests:20 - You entered option 1
+2020-02-26 10:25:35 INFO  TestForCalculationOfIntrests:21 - Enter principal , rate , time values
+2020-02-26 10:28:27 INFO  TestForCalculationOfIntrests:27 - SimpleIntrest - 28403.1
+2020-02-26 10:28:57 INFO  TestBudget:19 - Enter Standard of house
+2020-02-26 10:28:57 INFO  TestBudget:20 - Enter 1 -> normal , 2 -> medium ,3 -> high
+2020-02-26 10:29:10 INFO  TestBudget:24 - Enter 1 --> automated house if not  enter 0
+2020-02-26 10:29:23 INFO  TestBudget:30 - enter area: 
+2020-02-26 10:29:37 INFO  TestBudget:32 - Budget calculated is 9000000.0
